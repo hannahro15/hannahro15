@@ -5,6 +5,10 @@ I've recently completed my Level 5 Web Development Diploma with the Code Institu
 <!--
 **hannahro15/hannahro15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+## Github Stats
+
 [![Hannah's GitHub stats](https://github-readme-stats.vercel.app/api?username=hannahro15)](https://github.com/hannahro15/github-readme-stats)
 
+## Top Languages
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hannnahro15&layout=compact)
