@@ -21,9 +21,6 @@
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=hannahro15&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
-
-<p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hannahro15" alt="Streak Stats" />
   
 </p><h3 align="center">🏆 GitHub Trophies:</h3>
 <p align="center"> 
