@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hannah</h1>
 <h3 align="center">An aspiring Junior Software Developer from Manchester.</h3>
+<p>🎓 Level 5 Diploma in Web Applications Development graduate from Code Institute (January 2025). </p>
+<p>💻 Passionate about building dynamic, user-friendly web applications. </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hannahro15&label=Profile%20views&color=0e75b6&style=flat" alt="hannahro15" /> </p>
 
