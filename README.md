@@ -16,3 +16,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hannahro15&show_icons=true&locale=en&layout=compact" alt="hannahro15" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hannahro15&show_icons=true&locale=en" alt="hannahro15" /></p>
+
+<h3 align="center">🏆 GitHub Trophies:</h3>
+<p align="center"> 
+<img src="https://github-profile-trophy.vercel.app/?username=hannahro15&theme=onedark" alt="GitHub Trophies" />
+</p>
