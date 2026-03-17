@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hannah</h1>
-<h3 align="center">An aspiring Frontend Software Engineer from Manchester.</h3>
+<h3 align="center">An aspiring Frontend focused Full-Stack Software Engineer from Manchester.</h3>
 <p>🎓 Level 5 Diploma in Web Applications Development graduate from Code Institute (January 2025). Also have some data experience as well. </p>
 <p>💻 Passionate about building dynamic, user-friendly web applications. </p>
 
