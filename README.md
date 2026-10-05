@@ -15,9 +15,6 @@ I'm a software engineer from Manchester who builds full-stack web applications w
 ### Cloud & Tools
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### AI Tools
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
-
 ## 🎓 Education & Certifications
 - ☁️ **AWS Cloud Practitioner Certified** (September 2026)
 - 📜 **Level 5 Diploma in Web Applications Development** — Code Institute (January 2024 – January 2025)
