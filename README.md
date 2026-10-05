@@ -47,7 +47,7 @@ A theme park ride review site where users can search rides by park and create, e
 
 ## 🏆 Hackathon Achievements
 
-Team hackathons with Code Institute where I was Scrum Master, running the team's Agile workflow from planning to delivery. I also competed in two other hackathon, six in total.
+Team hackathons with Code Institute where I was Scrum Master, running the team's Agile workflow from planning to delivery. I also competed in two other hackathons, six in total.
 
 - 🎃 **[Purranormal](https://github.com/hannahro15/CI-Halloween-Hackathon-25)**, Halloween Hackathon (October 2025), **🥈 2nd place**: a spooky-themed app that matches witches with mystical cat familiars. Django · [Live site](https://purranormal-26af1e8cdfe0.herokuapp.com/)
 - 💘 **[Love.exe](https://github.com/hannahro15/CI-Feb25-hackathon)**, February Hackathon (February 2025), **🥇 1st place**: an inclusive dating app that helps people find real-life events, dates and friendships. Scrum Master and front-end. Django · [Live site](https://dating-events-app-512687071453.herokuapp.com/)
