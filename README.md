@@ -2,7 +2,7 @@
 
 ## 🙋 About Me
 
-I'm a software engineer from Manchester who builds full-stack web applications with various frontend and backend technologies.
+I'm a Software Developer from Manchester who builds full-stack web applications with various frontend and backend technologies.
 
 ## 💻 Tech Stack
 
