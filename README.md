@@ -15,6 +15,33 @@ I'm a Software Developer from Manchester who builds full-stack web applications 
 ### Cloud & Tools
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+## 🚀 Projects
+
+### 💼 [Job Tools Platform](https://github.com/hannahro15/Job-tools-platform) *(in progress)*
+A platform of job-hunting tools, including an application tracker, notes, and a support chatbot, with authentication so each user's data stays private.
+
+**Stack:** Next.js, TypeScript, Tailwind CSS, shadcn/ui
+
+### 🎵 [Musical Match Saga](https://github.com/hannahro15/Musical-Themed-Candy-Crush)
+A music-themed match-3 puzzle game with level objectives, timed challenges, and limited moves and lives. It's accessible (keyboard navigation, ARIA roles, and reduced-motion support). Built with AI-assisted development using GitHub Copilot.
+
+**Stack:** HTML, CSS, JavaScript (ES modules) · [Play it here](https://hannahro15.github.io/Musical-Themed-Candy-Crush/)
+
+### 🖥️ [Portfolio Site](https://github.com/hannahro15/Hannah-Portfolio-Site)
+My personal portfolio website, with a project showcase, About and Contact pages, and a responsive layout for desktop and mobile.
+
+**Stack:** React, React Router, Bootstrap · [Visit the site](https://hannahro15.github.io/Hannah-Portfolio-Site)
+
+### 🍽️ [Ready, Steady, Eat!](https://github.com/hannahro15/ready-steady-eat)
+A full-stack e-commerce food shop with user accounts, product search and filtering, a shopping basket, and Stripe payments.
+
+**Stack:** Python, Django, PostgreSQL, AWS S3, Stripe
+
+### 🎢 [UK Rides Review Hub](https://github.com/hannahro15/Theme-park-ride-reviews-site)
+A theme park ride review site where users can search rides by park and create, edit and delete their own reviews.
+
+**Stack:** Python, Flask, MongoDB · [Live site](https://theme-park-reviews-website-f1f235eaa19d.herokuapp.com/)
+
 ## 🎓 Education & Certifications
 - ☁️ **AWS Cloud Practitioner Certified** (September 2026)
 - 📜 **Level 5 Diploma in Web Applications Development** — Code Institute (January 2024 – January 2025)
