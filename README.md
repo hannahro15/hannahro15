@@ -1,10 +1,71 @@
 <h1 align="center">Hi 👋, I'm Hannah</h1>
-<h3 align="center">An aspiring Frontend focused Full-Stack Software Engineer from Manchester.</h3>
-<p> - Level 5 Diploma in Web Applications Development graduate from Code Institute (January 2025). Also have some data experience as well. </p>
-<p> - AWS Cloud Practitioner certified (Sep 2026)
-<p> - Passionate about building dynamic, user-friendly web applications. </p>
+<h3 align="center">Frontend-Focused Full-Stack Software Engineer | Building Dynamic Web Applications</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=hannahro15&label=Profile%20views&color=0e75b6&style=flat" alt="hannahro15" /> </p>
+---
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🙋 About Me
+I'm a passionate software engineer from Manchester with a strong focus on creating dynamic, user-friendly web applications. Recently graduated from Code Institute with a Level 5 Diploma in Web Applications Development, and I'm committed to continuous learning and professional growth.
+
+**Currently:** Exploring modern frontend frameworks and cloud technologies to build scalable applications.
+
+---
+
+## 🎓 Education & Certifications
+- 🎓 **Level 5 Diploma in Web Applications Development** — Code Institute (January 2025)
+- ☁️ **AWS Cloud Practitioner Certified** (September 2026)
+- 📊 Data experience across various projects
+
+---
+
+## 💻 Tech Stack
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Backend & Database
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hannahro15&show_icons=true&theme=radical" alt="Hannah's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hannahro15&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 🎯 What I'm Currently Focused On
+- 🔥 Building responsive and accessible web applications
+- 📚 Deepening my knowledge of React and modern JavaScript
+- ☁️ Expanding my AWS cloud expertise
+- 🤝 Open to collaborations and learning from the community
+
+---
+
+## 📫 Let's Connect
+I'm always happy to collaborate, discuss ideas, or help with projects! Feel free to reach out:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hannah-reynolds-/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hannahro15)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hannahro15&label=Profile%20views&color=0e75b6&style=flat" alt="hannahro15" />
+</p>
