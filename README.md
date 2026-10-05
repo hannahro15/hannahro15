@@ -18,7 +18,7 @@ I'm a Software Developer from Manchester who builds full-stack web applications 
 ### Testing
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white) ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white) ![React Testing Library](https://img.shields.io/badge/React_Testing_Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white)
 
-## 🚀 Projects
+## 🚀 Selected Projects
 
 ### 💼 [Job Tools Platform](https://github.com/hannahro15/Job-tools-platform) *(in progress)*
 A platform of job-hunting tools, including an application tracker, notes, and a support chatbot, with authentication so each user's data stays private.
@@ -45,9 +45,9 @@ A theme park ride review site where users can search rides by park and create, e
 
 **Stack:** Python, Flask, MongoDB · [Live site](https://theme-park-reviews-website-f1f235eaa19d.herokuapp.com/)
 
-## 🏆 Hackathons
+## 🏆 Hackathon Achievements
 
-Team hackathons with Code Institute where I was Scrum Master, running the team's Agile workflow from planning to delivery.
+Team hackathons with Code Institute where I was Scrum Master, running the team's Agile workflow from planning to delivery. I also competed in two other hackathon, six in total.
 
 - 🎃 **[Purranormal](https://github.com/hannahro15/CI-Halloween-Hackathon-25)**, Halloween Hackathon (October 2025), **🥈 2nd place**: a spooky-themed app that matches witches with mystical cat familiars. Django · [Live site](https://purranormal-26af1e8cdfe0.herokuapp.com/)
 - 💘 **[Love.exe](https://github.com/hannahro15/CI-Feb25-hackathon)**, February Hackathon (February 2025), **🥇 1st place**: an inclusive dating app that helps people find real-life events, dates and friendships. Scrum Master and front-end. Django · [Live site](https://dating-events-app-512687071453.herokuapp.com/)
