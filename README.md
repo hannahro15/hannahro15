@@ -45,6 +45,10 @@ A theme park ride review site where users can search rides by park and create, e
 
 **Stack:** Python, Flask, MongoDB · [Live site](https://theme-park-reviews-website-f1f235eaa19d.herokuapp.com/)
 
+## 🌍 Open Source
+
+I contribute to open source projects including [Minesweeper](https://github.com/v-gajjar/Minesweeper) and [Phuzzle](https://github.com/NickTheDevOpsGuy/phuzzle), with work ranging from unit and component tests to SEO improvements and mobile fixes.
+
 ## 🏆 Hackathon Achievements
 
 Team hackathons with Code Institute where I was Scrum Master, running the team's Agile workflow from planning to delivery. I also competed in two other hackathons, six in total.
