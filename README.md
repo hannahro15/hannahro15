@@ -25,12 +25,12 @@ I'm a Software Developer from Manchester who builds full-stack web applications 
 ### 🎵 [Musical Match Saga](https://github.com/hannahro15/Musical-Themed-Candy-Crush)
 A music-themed match-3 puzzle game with level objectives, timed challenges, and limited moves and lives. It's accessible (keyboard navigation, ARIA roles, and reduced-motion support). Built with AI-assisted development using GitHub Copilot.
 
-**Stack:** HTML, CSS, JavaScript (ES modules) · [Play it here](https://hannahro15.github.io/Musical-Themed-Candy-Crush/)
+**Stack:** HTML, CSS, JavaScript (ES modules) · [Live site](https://hannahro15.github.io/Musical-Themed-Candy-Crush/)
 
 ### 🖥️ [Portfolio Site](https://github.com/hannahro15/Hannah-Portfolio-Site)
 My personal portfolio website, with a project showcase, About and Contact pages, and a responsive layout for desktop and mobile.
 
-**Stack:** React, React Router, Bootstrap · [Visit the site](https://hannahro15.github.io/Hannah-Portfolio-Site)
+**Stack:** React, React Router, Bootstrap · [Live site](https://hannahro15.github.io/Hannah-Portfolio-Site)
 
 ### 🍽️ [Ready, Steady, Eat!](https://github.com/hannahro15/ready-steady-eat)
 A full-stack e-commerce food shop with user accounts, product search and filtering, a shopping basket, and Stripe payments.
