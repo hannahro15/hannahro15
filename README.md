@@ -40,7 +40,7 @@ My personal portfolio website, with a project showcase, About and Contact pages,
 ### 🍽️ [Ready, Steady, Eat!](https://github.com/hannahro15/ready-steady-eat)
 A full-stack e-commerce food shop with user accounts, product search and filtering, a shopping basket, and Stripe payments.
 
-**Stack:** Python, Django, PostgreSQL, AWS S3, Stripe
+**Stack:** Python, Django, PostgreSQL, AWS S3, Stripe · [Live site](https://ready-steady-eat-8febfd678f9f.herokuapp.com/)
 
 ### 🎢 [UK Rides Review Hub](https://github.com/hannahro15/Theme-park-ride-reviews-site)
 A theme park ride review site where users can search rides by park and create, edit and delete their own reviews.
