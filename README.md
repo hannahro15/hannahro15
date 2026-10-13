@@ -22,11 +22,6 @@ I'm a Software Developer from Manchester who builds full-stack web applications 
 
 ## 🚀 Selected Projects
 
-### 💼 [Job Tools Platform](https://github.com/hannahro15/Job-tools-platform) *(in progress)*
-A platform of job-hunting tools, including an application tracker, notes, and a support chatbot, with authentication so each user's data stays private.
-
-**Stack:** Next.js, TypeScript, Tailwind CSS, shadcn/ui
-
 ### 🎵 [Musical Match Saga](https://github.com/hannahro15/Musical-Themed-Candy-Crush)
 A music-themed match-3 puzzle game with level objectives, timed challenges, and limited moves and lives. It's accessible (keyboard navigation, ARIA roles, and reduced-motion support). Built with AI-assisted development using GitHub Copilot.
 
@@ -46,6 +41,13 @@ A full-stack e-commerce food shop with user accounts, product search and filteri
 A theme park ride review site where users can search rides by park and create, edit and delete their own reviews.
 
 **Stack:** Python, Flask, MongoDB · [Live site](https://theme-park-reviews-website-f1f235eaa19d.herokuapp.com/)
+
+## 🔨 Currently Working On
+
+- 💼 **[Job Tools Platform](https://github.com/hannahro15/Job-tools-platform)**: a job-hunting toolkit with an application tracker, notes and a support chatbot, with authentication so each user's data stays private. Next.js, TypeScript, Tailwind CSS, shadcn/ui.
+- 🎻 **Music projects**: a [classical-music-themed escape room](https://github.com/hannahro15/classical-music-themed-escape-room) and a [music theory app](https://github.com/hannahro15/music-theory-app).
+- 🖥️ **[Portfolio Site](https://github.com/hannahro15/Hannah-Portfolio-Site)**: continuously improving it with new projects and updates.
+- ☁️ **AWS SimuLearn: Cloud Practitioner** on AWS Skill Builder: hands-on labs solving simulated customer problems with AWS services.
 
 ## 🌍 Open Source
 
