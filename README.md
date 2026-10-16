@@ -2,7 +2,7 @@
 
 ## 🙋 About Me
 
-I'm a Software Developer from Manchester who builds full-stack web applications with various frontend and backend technologies.
+I'm a Software Developer from Manchester who builds web applications.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hannaholbrich/) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hannahro15.github.io/Hannah-Portfolio-Site)
 
