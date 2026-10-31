@@ -53,6 +53,17 @@ A theme park ride review site where users can search rides by park and create, e
 
 I contribute to open source projects including [Minesweeper](https://github.com/v-gajjar/Minesweeper) and [Phuzzle](https://github.com/NickTheDevOpsGuy/phuzzle), with work ranging from unit and component tests to SEO improvements and mobile fixes.
 
+## 📊 GitHub Activity
+
+<p>
+  <a href="https://commits.sh/hannahro15">
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="https://commits.sh/api/badge?handle=hannahro15&amp;style=card&amp;theme=light">
+      <img alt="GitHub API activity statistics for hannahro15 over the past 52 weeks" src="https://commits.sh/api/badge?handle=hannahro15&amp;style=card&amp;theme=dark" width="480">
+    </picture>
+  </a>
+</p>
+
 ## 🏆 Selected Hackathon Projects
 
 I've competed in six Code Institute hackathons and was Scrum Master in four, running the team's Agile workflow from planning to delivery. Here are my three most recent as Scrum Master.
