@@ -22,15 +22,10 @@ I am an entry-level software developer who loves building user-friendly web appl
 
 ## 🚀 Selected Projects
 
-### 🎵 [Musical Match Saga](https://github.com/hannahro15/Musical-Themed-Candy-Crush)
-A music-themed match-3 puzzle game with level objectives, timed challenges, and limited moves and lives. It's accessible (keyboard navigation, ARIA roles, and reduced-motion support). Built with AI-assisted development using GitHub Copilot.
+### [Job Tools Platform](https://github.com/hannahro15/Job-tools-platform) 
+A job-hunting toolkit with an application tracker, notes and a support chatbot, with authentication so each user's data stays private.
 
-**Stack:** HTML, CSS, JavaScript (ES modules) · [Live site](https://hannahro15.github.io/Musical-Themed-Candy-Crush/)
-
-### 🖥️ [Portfolio Site](https://github.com/hannahro15/Hannah-Portfolio-Site)
-My personal portfolio website, with a project showcase, About and Contact pages, and a responsive layout for desktop and mobile.
-
-**Stack:** React, React Router, Bootstrap · [Live site](https://hannahro15.github.io/Hannah-Portfolio-Site)
+**Stack:** Next.js, TypeScript, Tailwind CSS, shadcn/ui.
 
 ### 🍽️ [Ready, Steady, Eat!](https://github.com/hannahro15/ready-steady-eat)
 A full-stack e-commerce food shop with user accounts, product search and filtering, a shopping basket, and Stripe payments.
