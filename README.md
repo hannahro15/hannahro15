@@ -76,5 +76,5 @@ I've competed in six Code Institute hackathons and was Scrum Master in four, run
 ## 🎓 Education & Certifications
 
 - ☁️ **AWS Cloud Practitioner Certified** (September 2026)
-- 📜 **Level 5 Diploma in Web Applications Development** — Code Institute (January 2024 – January 2025)
-- 📊 Data experience across various projects and a couple of academies/bootcamps such as Sparta Global and Fast Futures(Avado).
+- 📜 **Level 5 Diploma in Web Application Development** — Code Institute (January 2024 – January 2025)
+- 📊 Data experience across various projects and a couple of academies/bootcamps such as Sparta Global and Fast Futures (Avado).
