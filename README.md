@@ -4,6 +4,8 @@
 
 I am an entry-level software developer who loves building user-friendly web applications. I care about making apps accessible and inclusive, like my Job Tools Platform, which I'm building with neurodivergent jobseekers in mind.
 
+🥇 Hackathon winner (1st, 2nd and 3rd places) · 🌍 Open source maintainer and contributor · ☁️ AWS Certified Cloud Practitioner
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hannaholbrich/) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hannahro15.github.io/Hannah-Portfolio-Site)
 
 ## 💻 Tech Stack
