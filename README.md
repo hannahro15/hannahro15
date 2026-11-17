@@ -27,6 +27,11 @@ A job-hunting toolkit with an application tracker, notes and a support chatbot, 
 
 **Stack:** Next.js, TypeScript, Tailwind CSS, shadcn/ui.
 
+### 🎵 [Musical Match Saga](https://github.com/hannahro15/Musical-Match-Saga)
+A music-themed match-3 puzzle game with level objectives, timed challenges, and limited moves and lives. It's accessible (keyboard navigation, ARIA roles, and reduced-motion support). Built with AI-assisted development using GitHub Copilot.
+
+**Stack:** HTML, CSS, JavaScript (ES modules) · [Live site](https://hannahro15.github.io/Musical-Match-Saga/)
+
 ### 🍽️ [Ready, Steady, Eat!](https://github.com/hannahro15/ready-steady-eat)
 A full-stack e-commerce food shop with user accounts, product search and filtering, a shopping basket, and Stripe payments.
 
@@ -40,11 +45,19 @@ A theme park ride review site where users can search rides by park and create, e
 ## 🔨 Currently Working On
 
 - 💼 **[Job Tools Platform](https://github.com/hannahro15/Job-tools-platform)**: a job-hunting toolkit with an application tracker, notes and a support chatbot, with authentication so each user's data stays private. Next.js, TypeScript, Tailwind CSS, shadcn/ui.
-- 🎻 **Music projects**: a [classical-music-themed escape room](https://github.com/hannahro15/classical-music-themed-escape-room) and a [music theory app](https://github.com/hannahro15/music-theory-app).
+- 🎻 **Music projects**: a [classical-music-themed escape room](https://github.com/hannahro15/classical-music-themed-escape-room) (now open source, see below) and a [music theory app](https://github.com/hannahro15/music-theory-app).
 - 🖥️ **[Portfolio Site](https://github.com/hannahro15/Hannah-Portfolio-Site)**: continuously improving it with new projects and updates.
 - ☁️ **AWS SimuLearn: Cloud Practitioner** on AWS Skill Builder: hands-on labs solving simulated customer problems with AWS services.
 
 ## 🌍 Open Source
+
+### Maintainer
+
+🎻 **[Classical Music Themed Escape Room](https://github.com/hannahro15/classical-music-themed-escape-room)**: a free online escape room with music theory puzzles inspired by classical music. I started building it nearly a year ago and decided it was a good idea to make it open source so others can get involved. React, Vite · [Live site](https://hannahro15.github.io/classical-music-themed-escape-room/)
+
+Contributions are welcome! Have a look at the [contributing guide](https://github.com/hannahro15/classical-music-themed-escape-room/blob/main/CONTRIBUTING.md) and the [good first issues](https://github.com/hannahro15/classical-music-themed-escape-room/contribute) to get started.
+
+### Contributor
 
 I contribute to open source projects including [Minesweeper](https://github.com/v-gajjar/Minesweeper) and [Phuzzle](https://github.com/NickTheDevOpsGuy/phuzzle), with work ranging from unit and component tests to SEO improvements and mobile fixes.
 
