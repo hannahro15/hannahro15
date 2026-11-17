@@ -2,7 +2,7 @@
 
 ## 🙋 About Me
 
-I am an entry-level software developer who loves building user-friendly web applications.
+I am an entry-level software developer who loves building user-friendly web applications. I care about making apps accessible and inclusive, like my Job Tools Platform, which I'm building with neurodivergent jobseekers in mind.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hannaholbrich/) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hannahro15.github.io/Hannah-Portfolio-Site)
 
@@ -12,25 +12,30 @@ I am an entry-level software developer who loves building user-friendly web appl
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Backend & Database
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Drizzle](https://img.shields.io/badge/Drizzle-000000?style=for-the-badge&logo=drizzle&logoColor=C5F74F)
 
 ### Cloud & Tools
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### Testing
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white) ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white) ![React Testing Library](https://img.shields.io/badge/React_Testing_Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white)
 
 ## 🚀 Selected Projects
 
-### [Job Tools Platform](https://github.com/hannahro15/Job-tools-platform) 
-A job-hunting toolkit with an application tracker, notes and a support chatbot, with authentication so each user's data stays private.
+### 💼 [Job Tools Platform](https://github.com/hannahro15/Job-tools-platform)
+A job-hunting toolkit with an application tracker and notes, with authentication so each user's data stays private.
 
-**Stack:** Next.js, TypeScript, Tailwind CSS, shadcn/ui.
+**Stack:** Next.js, React, TypeScript, Tailwind CSS, shadcn/ui, Clerk (authentication), PostgreSQL (Neon), Drizzle ORM, Vitest · [Live site](https://job-tools-platform.vercel.app)
 
 ### 🎵 [Musical Match Saga](https://github.com/hannahro15/Musical-Match-Saga)
 A music-themed match-3 puzzle game with level objectives, timed challenges, and limited moves and lives. It's accessible (keyboard navigation, ARIA roles, and reduced-motion support). Built with AI-assisted development using GitHub Copilot.
 
 **Stack:** HTML, CSS, JavaScript (ES modules) · [Live site](https://hannahro15.github.io/Musical-Match-Saga/)
+
+### 🎼 [Music Theory App](https://github.com/hannahro15/music-theory-app)
+An interactive music theory learning app. Explore scales, intervals, 7th-chord arpeggios and a musical glossary on rendered sheet music, then test yourself with a classical music quiz.
+
+**Stack:** React, React Router, React Bootstrap, VexFlow, Vite · [Live site](https://hannahro15.github.io/music-theory-app/)
 
 ### 🍽️ [Ready, Steady, Eat!](https://github.com/hannahro15/ready-steady-eat)
 A full-stack e-commerce food shop with user accounts, product search and filtering, a shopping basket, and Stripe payments.
@@ -44,7 +49,7 @@ A theme park ride review site where users can search rides by park and create, e
 
 ## 🔨 Currently Working On
 
-- 💼 **[Job Tools Platform](https://github.com/hannahro15/Job-tools-platform)**: a job-hunting toolkit with an application tracker, notes and a support chatbot, with authentication so each user's data stays private. Next.js, TypeScript, Tailwind CSS, shadcn/ui.
+- 💼 **[Job Tools Platform](https://github.com/hannahro15/Job-tools-platform)**: a job-hunting toolkit with an application tracker and notes, with authentication so each user's data stays private. Next.js, TypeScript, Tailwind CSS, shadcn/ui.
 - 🎻 **Music projects**: a [classical-music-themed escape room](https://github.com/hannahro15/classical-music-themed-escape-room) (now open source, see below) and a [music theory app](https://github.com/hannahro15/music-theory-app).
 - 🖥️ **[Portfolio Site](https://github.com/hannahro15/Hannah-Portfolio-Site)**: continuously improving it with new projects and updates.
 - ☁️ **AWS SimuLearn: Cloud Practitioner** on AWS Skill Builder: hands-on labs solving simulated customer problems with AWS services.
