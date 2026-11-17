@@ -58,8 +58,8 @@ A theme park ride review site where users can search rides by park and create, e
 
 ## 🔨 Currently Working On
 
-- 💼 **[Job Tools Platform](https://github.com/hannahro15/Job-tools-platform)**: a job-hunting toolkit with an application tracker and notes, with authentication so each user's data stays private. Next.js, TypeScript, Tailwind CSS, shadcn/ui.
-- 🎻 **Music projects**: a [classical-music-themed escape room](https://github.com/hannahro15/classical-music-themed-escape-room) (now open source, see below) and a [music theory app](https://github.com/hannahro15/music-theory-app).
+- 💼 **[Job Tools Platform](https://github.com/hannahro15/Job-tools-platform)**: still building it, see Selected Projects above.
+- 🎻 **Music projects**: the [Music Theory App](https://github.com/hannahro15/music-theory-app) (see Selected Projects above) and the [Classical Music Themed Escape Room](https://github.com/hannahro15/classical-music-themed-escape-room), which I maintain as an open source project (see below).
 - 🖥️ **[Portfolio Site](https://github.com/hannahro15/Hannah-Portfolio-Site)**: continuously improving it with new projects and updates.
 - ☁️ **AWS SimuLearn: Cloud Practitioner** on AWS Skill Builder: hands-on labs solving simulated customer problems with AWS services.
 
@@ -67,7 +67,7 @@ A theme park ride review site where users can search rides by park and create, e
 
 ### Maintainer
 
-🎻 **[Classical Music Themed Escape Room](https://github.com/hannahro15/classical-music-themed-escape-room)**: a free online escape room with music theory puzzles inspired by classical music. I started building it nearly a year ago and decided it was a good idea to make it open source so others can get involved. React, Vite · [Live site](https://hannahro15.github.io/classical-music-themed-escape-room/)
+🎻 **[Classical Music Themed Escape Room](https://github.com/hannahro15/classical-music-themed-escape-room)**: a free online escape room with music theory puzzles inspired by classical music. I started building it in November 2025 and decided to make it open source so others can get involved. React, Vite · [Live site](https://hannahro15.github.io/classical-music-themed-escape-room/)
 
 Contributions are welcome! Have a look at the [contributing guide](https://github.com/hannahro15/classical-music-themed-escape-room/blob/main/CONTRIBUTING.md) and the [good first issues](https://github.com/hannahro15/classical-music-themed-escape-room/contribute) to get started.
 
