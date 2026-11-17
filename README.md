@@ -2,7 +2,13 @@
 
 ## 🙋 About Me
 
-I am an entry-level software developer who loves building user-friendly web applications. I care about making apps accessible and inclusive, like my Job Tools Platform, which I'm building with neurodivergent jobseekers in mind.
+I'm a junior front-end and full-stack developer with a music background, always building something new and learning as I go. I use React and TypeScript on the front end, and love working with Python, Django and SQL on the back end. I also enjoy working with data and have completed various data-related projects.
+
+I'm neurodivergent, which brings a fresh perspective and strengths like excellent attention to detail, so I'm quick to spot errors that others miss. It's also why I care about making apps accessible and inclusive, like my Job Tools Platform, which I'm building with neurodivergent jobseekers in mind.
+
+I'm organised, communicate clearly and work well in Agile teams: I was Scrum Master in four of my six hackathons, and all four teams placed in the top three.
+
+📍 Looking for daytime junior developer roles, hybrid in Manchester or remote.
 
 🥇 Code Institute hackathons: winner, plus 2nd and 3rd places · 🌍 Open source maintainer and contributor · ☁️ AWS Certified Cloud Practitioner
 
@@ -16,7 +22,7 @@ I am an entry-level software developer who loves building user-friendly web appl
 
 ### Backend & Database
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Drizzle](https://img.shields.io/badge/Drizzle-000000?style=for-the-badge&logo=drizzle&logoColor=C5F74F)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-A30000?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Drizzle](https://img.shields.io/badge/Drizzle-000000?style=for-the-badge&logo=drizzle&logoColor=C5F74F)
 
 ### Cloud & Tools
 
