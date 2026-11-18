@@ -40,12 +40,6 @@ A job-hunting toolkit with an application tracker and notes, with authentication
 
 **Stack:** Next.js, React, TypeScript, Tailwind CSS, shadcn/ui, Clerk (authentication), PostgreSQL (Neon), Drizzle ORM, Vitest · [Live site](https://job-tools-platform.vercel.app)
 
-### 🎵 [Musical Match Saga](https://github.com/hannahro15/Musical-Match-Saga)
-
-A music-themed match-3 puzzle game with level objectives, timed challenges, and limited moves and lives. It's accessible (keyboard navigation, ARIA roles, and reduced-motion support). Built with AI-assisted development using GitHub Copilot.
-
-**Stack:** HTML, CSS, JavaScript (ES modules) · [Live site](https://hannahro15.github.io/Musical-Match-Saga/)
-
 ### 🎼 [Music Theory App](https://github.com/hannahro15/music-theory-app)
 
 An interactive music theory learning app. Explore scales, intervals, 7th-chord arpeggios and a musical glossary on rendered sheet music, then test yourself with a classical music quiz.
@@ -77,7 +71,12 @@ A theme park ride review site where users can search rides by park and create, e
 
 🎻 **[Classical Music Themed Escape Room](https://github.com/hannahro15/classical-music-themed-escape-room)**: a free online escape room with music theory puzzles inspired by classical music. I started building it in November 2025 and decided to make it open source so others can get involved. React, Vite · [Live site](https://hannahro15.github.io/classical-music-themed-escape-room/)
 
-Contributions are welcome! Have a look at the [contributing guide](https://github.com/hannahro15/classical-music-themed-escape-room/blob/main/CONTRIBUTING.md) and the [good first issues](https://github.com/hannahro15/classical-music-themed-escape-room/contribute) to get started.
+🎵 **[Musical Match Saga](https://github.com/hannahro15/Musical-Match-Saga)**: a music-themed match-3 puzzle game with level objectives, timed challenges, and limited moves and lives. It's accessible (keyboard navigation, ARIA roles, and reduced-motion support). Built with AI-assisted development using GitHub Copilot. HTML, CSS, JavaScript (ES modules) · [Live site](https://hannahro15.github.io/Musical-Match-Saga/)
+
+Contributions are welcome on both! Each one has a contributing guide and good first issues to get started:
+
+- Escape Room: [contributing guide](https://github.com/hannahro15/classical-music-themed-escape-room/blob/main/CONTRIBUTING.md) · [good first issues](https://github.com/hannahro15/classical-music-themed-escape-room/contribute)
+- Musical Match Saga: [contributing guide](https://github.com/hannahro15/Musical-Match-Saga/blob/main/CONTRIBUTING.md) · [good first issues](https://github.com/hannahro15/Musical-Match-Saga/contribute)
 
 ### Contributor
 
