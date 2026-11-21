@@ -6,11 +6,11 @@ I'm a junior front-end and full-stack developer with a music background, always 
 
 I'm neurodivergent, which brings a fresh perspective and strengths like excellent attention to detail, so I'm quick to spot errors that others miss. It's also why I care about making apps accessible and inclusive, like my Job Tools Platform, which I'm building with neurodivergent jobseekers in mind.
 
-I'm organised, communicate clearly and work well in Agile teams: I was Scrum Master in four of my six hackathons, and all four teams placed in the top three.
+I'm organised, communicate clearly and work well in Agile teams, often as Scrum Master in hackathons.
 
 📍 Looking for junior developer or tech roles (weekday daytime or flexible hours), hybrid in Manchester or remote within the UK.
 
-🥇 Code Institute team hackathons: winner, plus 2nd and 3rd places · 🌍 Open source maintainer and contributor · 📜 Level 5 Diploma in Web Application Development (Code Institute) · ☁️ AWS Certified Cloud Practitioner
+🥇 Code Institute team hackathons: two wins, plus 2nd and 3rd places · 🌍 Open source maintainer and contributor · 📜 Level 5 Diploma in Web Application Development (Code Institute) · ☁️ AWS Certified Cloud Practitioner
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hannaholbrich/) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hannahro15.github.io/Hannah-Portfolio-Site)
 
@@ -59,7 +59,7 @@ I contribute to open source projects including [Minesweeper](https://github.com/
 
 ## 🏆 Selected Hackathon Projects
 
-I've competed in six Code Institute team hackathons and was Scrum Master in four, running the team's Agile workflow from planning to delivery. All four of those teams placed in the top three. Here are my three most recent as Scrum Master.
+I've competed in six Code Institute team hackathons and was Scrum Master in four, running the team's Agile workflow from planning to delivery. All four of those teams placed in the top three, with two 1st places, a 2nd and a 3rd. Here are my three most recent as Scrum Master.
 
 - 🎃 **[Purranormal](https://github.com/hannahro15/CI-Halloween-Hackathon-25)**, Halloween Hackathon (October 2025), **🥈 2nd place**: a spooky-themed app that matches witches with mystical cat familiars. Scrum Master. Django · [Live site](https://purranormal-26af1e8cdfe0.herokuapp.com/)
 - 💘 **[Love.exe](https://github.com/hannahro15/CI-Feb25-hackathon)**, February Hackathon (February 2025), **🥇 1st place**: an inclusive dating app that helps people find real-life events, dates and friendships. Scrum Master and front-end. Django · [Live site](https://dating-events-app-512687071453.herokuapp.com/)
