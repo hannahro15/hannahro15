@@ -44,9 +44,9 @@ A theme park ride review site where users can search rides by park and create, e
 
 ### Maintainer
 
-🎻 **[Classical Music Themed Escape Room](https://github.com/hannahro15/classical-music-themed-escape-room)**: a free online escape room with music theory puzzles inspired by classical music. I started building it in November 2025 and decided to make it open source so others can get involved. React, Vite · [Live site](https://hannahro15.github.io/classical-music-themed-escape-room/)
+🎻 **[Classical Music Themed Escape Room](https://github.com/hannahro15/classical-music-themed-escape-room)**: a free online escape room with music theory puzzles inspired by classical music. I started building it in November 2025 and decided to make it open source so others can get involved. **Stack:** React, Vite · [Live site](https://hannahro15.github.io/classical-music-themed-escape-room/)
 
-🎵 **[Musical Match Saga](https://github.com/hannahro15/Musical-Match-Saga)**: my own idea for a music-themed match-3 puzzle game, combining Candy Crush and music, with level objectives, timed challenges, and limited moves and lives. I started it in December 2025 by building the game board and some basic logic from a YouTube tutorial, then developed the rest on my own with GitHub Copilot, including most of the game logic, the basic design and 20 levels, before making it open source in November 2026. It's built to be accessible, with keyboard controls and screen reader support. I tested the game logic with Jest and code coverage. Tests and linting now run in GitHub Actions, and the site only deploys if they pass. HTML, CSS, JavaScript (ES modules), Jest, GitHub Actions · [Live site](https://hannahro15.github.io/Musical-Match-Saga/)
+🎵 **[Musical Match Saga](https://github.com/hannahro15/Musical-Match-Saga)**: my own idea for a music-themed match-3 puzzle game, combining Candy Crush and music, with level objectives, timed challenges, and limited moves and lives. I started it in December 2025 by building the game board and some basic logic from a YouTube tutorial, then developed the rest on my own with GitHub Copilot, including most of the game logic, the basic design and 20 levels, before making it open source in November 2026. It's built to be accessible, with keyboard controls and screen reader support. I tested the game logic with Jest and code coverage. Tests and linting now run in GitHub Actions, and the site only deploys if they pass. **Stack:** HTML, CSS, JavaScript (ES modules), Jest, GitHub Actions · [Live site](https://hannahro15.github.io/Musical-Match-Saga/)
 
 Contributions are welcome on both! Each one has a contributing guide and good first issues to get started:
 
@@ -61,9 +61,9 @@ I contribute to open source projects including [Minesweeper](https://github.com/
 
 I've competed in six Code Institute team hackathons and was Scrum Master in four, running the team's Agile workflow from planning to delivery. All four of those teams placed in the top three, with two 1st places, a 2nd and a 3rd. Here are my three most recent as Scrum Master.
 
-- 🎃 **[Purranormal](https://github.com/hannahro15/CI-Halloween-Hackathon-25)**, Halloween Hackathon (October 2025), **🥈 2nd place**: a spooky-themed app that matches witches with mystical cat familiars. Scrum Master. Django · [Live site](https://purranormal-26af1e8cdfe0.herokuapp.com/)
-- 💘 **[Love.exe](https://github.com/hannahro15/CI-Feb25-hackathon)**, February Hackathon (February 2025), **🥇 1st place**: an inclusive dating app that helps people find real-life events, dates and friendships. Scrum Master and front-end. Django · [Live site](https://dating-events-app-512687071453.herokuapp.com/)
-- 🔊 **[Script to Sound](https://github.com/hannahro15/Nov24Hackathon)**, November Hackathon (November 2024), **🥉 3rd place**: an accessibility-themed text-to-speech app. Scrum Master, plus I built the Contact and FAQ pages. Django · [Live site](https://script-to-sound-f697c5a0720c.herokuapp.com/)
+- 🎃 **[Purranormal](https://github.com/hannahro15/CI-Halloween-Hackathon-25)**, Halloween Hackathon (October 2025), **🥈 2nd place**: a spooky-themed app that matches witches with mystical cat familiars. Scrum Master. **Stack:** Python, Django · [Live site](https://purranormal-26af1e8cdfe0.herokuapp.com/)
+- 💘 **[Love.exe](https://github.com/hannahro15/CI-Feb25-hackathon)**, February Hackathon (February 2025), **🥇 1st place**: an inclusive dating app that helps people find real-life events, dates and friendships. Scrum Master and front-end. **Stack:** Python, Django · [Live site](https://dating-events-app-512687071453.herokuapp.com/)
+- 🔊 **[Script to Sound](https://github.com/hannahro15/Nov24Hackathon)**, November Hackathon (November 2024), **🥉 3rd place**: an accessibility-themed text-to-speech app. Scrum Master, plus I built the Contact and FAQ pages. **Stack:** Python, Django · [Live site](https://script-to-sound-f697c5a0720c.herokuapp.com/)
 
 ## 💻 Tech Stack
 
