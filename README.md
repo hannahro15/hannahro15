@@ -8,7 +8,7 @@ I'm neurodivergent, which brings a fresh perspective and strengths like excellen
 
 I'm organised, communicate clearly and work well in Agile teams: I was Scrum Master in four of my six hackathons, and all four teams placed in the top three.
 
-📍 Looking for daytime junior developer roles, hybrid in Manchester or remote.
+📍 Looking for junior developer or tech roles (weekday daytime or flexible hours), hybrid in Manchester or remote within the UK.
 
 🥇 Code Institute team hackathons: winner, plus 2nd and 3rd places · 🌍 Open source maintainer and contributor · 📜 Level 5 Diploma in Web Application Development (Code Institute) · ☁️ AWS Certified Cloud Practitioner
 
