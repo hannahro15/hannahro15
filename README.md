@@ -2,7 +2,7 @@
 
 ## 🙋 About Me
 
-I'm a junior front-end and full-stack developer with a music background, always building something new and learning as I go. I use React and TypeScript on the front end, and love working with Python, Django and SQL on the back end. I also enjoy working with data and have completed various data-related projects.
+I'm a junior front-end and full-stack developer with a music background, always building something new and learning as I go. I use React, JavaScript and TypeScript on the front end, and love working with Python, Django and SQL on the back end. I also enjoy working with data and have completed various data-related projects.
 
 I'm neurodivergent, which brings a fresh perspective and strengths like excellent attention to detail, so I'm quick to spot errors that others miss. It's also why I care about making apps accessible and inclusive, like my Job Tools Platform, which I'm building with neurodivergent jobseekers in mind.
 
