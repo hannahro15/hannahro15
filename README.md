@@ -18,7 +18,7 @@ I'm organised, communicate clearly and work well in Agile teams: I was Scrum Mas
 
 ### 💼 [Job Tools Platform](https://github.com/hannahro15/Job-tools-platform)
 
-A job-hunting toolkit with an application tracker and notes, with authentication so each user's data stays private.
+A job-hunting toolkit with an application tracker and notes, with authentication so each user's data stays private. It's designed for neurodivergent jobseekers. More features will be added over time, such as a dashboard of job application stats and a neurodivergent support page.
 
 **Stack:** Next.js, React, TypeScript, Tailwind CSS, shadcn/ui, Clerk (authentication), PostgreSQL (Neon), Drizzle ORM, Vitest · [Live site](https://job-tools-platform.vercel.app)
 
