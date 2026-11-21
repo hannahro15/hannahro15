@@ -61,7 +61,7 @@ A theme park ride review site where users can search rides by park and create, e
 ## 🔨 Currently Working On
 
 - 💼 **[Job Tools Platform](https://github.com/hannahro15/Job-tools-platform)**: still building it, see Selected Projects above.
-- 🎻 **Music projects**: the [Music Theory App](https://github.com/hannahro15/music-theory-app) (see Selected Projects above) and the [Classical Music Themed Escape Room](https://github.com/hannahro15/classical-music-themed-escape-room), which I maintain as an open source project (see below).
+- 🎻 **[Music Theory App](https://github.com/hannahro15/music-theory-app)**: still building it, see Selected Projects above.
 - 🖥️ **[Portfolio Site](https://github.com/hannahro15/Hannah-Portfolio-Site)**: continuously improving it with new projects and updates.
 - ☁️ **AWS SimuLearn: Cloud Practitioner** on AWS Skill Builder: hands-on labs solving simulated customer problems with AWS services.
 
