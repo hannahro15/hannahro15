@@ -1,6 +1,6 @@
 # Hi, I'm Hannah 👋
 
-## 🙋 About Me
+## About Me
 
 I'm a junior front-end and full-stack developer with a music background, always building something new and learning as I go. I use React, JavaScript and TypeScript on the front end, and love working with Python, Django and SQL on the back end. I also enjoy working with data and have completed various data-related projects.
 
@@ -10,43 +10,43 @@ I'm organised, communicate clearly and work well in Agile teams, often as Scrum 
 
 📍 Looking for junior developer or tech roles (weekday daytime or flexible hours), hybrid in Manchester or remote within the UK.
 
-🥇 Code Institute team hackathons: two wins, plus 2nd and 3rd places · 🌍 Open source maintainer and contributor · 📜 Level 5 Diploma in Web Application Development (Code Institute) · ☁️ AWS Certified Cloud Practitioner
+🥇 Code Institute team hackathons: two wins, plus 2nd and 3rd places · Open source maintainer and contributor · Level 5 Diploma in Web Application Development (Code Institute) · AWS Certified Cloud Practitioner
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hannaholbrich/) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hannahro15.github.io/Hannah-Portfolio-Site)
 
-## 🚀 Selected Projects
+## Selected Projects
 
-### 💼 [Job Tools Platform](https://github.com/hannahro15/Job-tools-platform)
+### [Job Tools Platform](https://github.com/hannahro15/Job-tools-platform)
 
 A job tools platform with an application tracker and notes, plus authentication so each user's data stays private. It's designed for neurodivergent jobseekers. More features will be added over time, such as a dashboard of job application stats and a neurodivergent support page.
 
 **Stack:** Next.js, React, TypeScript, Tailwind CSS, shadcn/ui, Clerk (authentication), PostgreSQL (Neon), Drizzle ORM, Vitest · [Live site](https://job-tools-platform.vercel.app)
 
-### 🍽️ [Ready, Steady, Eat!](https://github.com/hannahro15/ready-steady-eat)
+### [Ready, Steady, Eat!](https://github.com/hannahro15/ready-steady-eat)
 
 A full-stack e-commerce food shop with user accounts, product search and filtering, a shopping basket, and Stripe payments.
 
 **Stack:** Python, Django, PostgreSQL, AWS S3, Stripe · [Live site](https://ready-steady-eat-8febfd678f9f.herokuapp.com/)
 
-### 🎼 [Music Theory App](https://github.com/hannahro15/music-theory-app)
+### [Music Theory App](https://github.com/hannahro15/music-theory-app)
 
 An interactive music theory learning app. Explore scales, intervals, 7th-chord arpeggios and a musical glossary on rendered sheet music, then test yourself with a classical music quiz.
 
 **Stack:** React, React Router, React Bootstrap, VexFlow, Vite · [Live site](https://hannahro15.github.io/music-theory-app/)
 
-### 🎢 [UK Rides Review Hub](https://github.com/hannahro15/Theme-park-ride-reviews-site)
+### [UK Rides Review Hub](https://github.com/hannahro15/Theme-park-ride-reviews-site)
 
 A theme park ride review site where users can search rides by park and create, edit and delete their own reviews.
 
 **Stack:** Python, Flask, MongoDB · [Live site](https://theme-park-reviews-website-f1f235eaa19d.herokuapp.com/)
 
-## 🌍 Open Source
+## Open Source
 
 ### Maintainer
 
-🎻 **[Classical Music Themed Escape Room](https://github.com/hannahro15/classical-music-themed-escape-room)**: a free online escape room with music theory puzzles inspired by classical music. I started building it in November 2025 and decided to make it open source so others can get involved. **Stack:** React, Vite · [Live site](https://hannahro15.github.io/classical-music-themed-escape-room/)
+**[Classical Music Themed Escape Room](https://github.com/hannahro15/classical-music-themed-escape-room)**: a free online escape room with music theory puzzles inspired by classical music. I started building it in November 2025 and decided to make it open source so others can get involved. **Stack:** React, Vite · [Live site](https://hannahro15.github.io/classical-music-themed-escape-room/)
 
-🎵 **[Musical Match Saga](https://github.com/hannahro15/Musical-Match-Saga)**: my own idea for a music-themed match-3 puzzle game, combining Candy Crush and music, with level objectives, timed challenges, and limited moves and lives. I started it in December 2025 by building the game board and some basic logic from a YouTube tutorial, then developed the rest on my own with GitHub Copilot, including most of the game logic, the basic design and 20 levels, before making it open source in November 2026. It's built to be accessible, with keyboard controls and screen reader support. I tested the game logic with Jest and code coverage. Tests and linting now run in GitHub Actions, and the site only deploys if they pass. **Stack:** HTML, CSS, JavaScript (ES modules), Jest, GitHub Actions · [Live site](https://hannahro15.github.io/Musical-Match-Saga/)
+**[Musical Match Saga](https://github.com/hannahro15/Musical-Match-Saga)**: my own idea for a music-themed match-3 puzzle game, combining Candy Crush and music, with level objectives, timed challenges, and limited moves and lives. I started it in December 2025 by building the game board and some basic logic from a YouTube tutorial, then developed the rest on my own with GitHub Copilot, including most of the game logic, the basic design and 20 levels, before making it open source in November 2026. It's built to be accessible, with keyboard controls and screen reader support. I tested the game logic with Jest and code coverage. Tests and linting now run in GitHub Actions, and the site only deploys if they pass. **Stack:** HTML, CSS, JavaScript (ES modules), Jest, GitHub Actions · [Live site](https://hannahro15.github.io/Musical-Match-Saga/)
 
 Contributions are welcome on both! Each one has a contributing guide and good first issues to get started:
 
@@ -57,15 +57,15 @@ Contributions are welcome on both! Each one has a contributing guide and good fi
 
 I contribute to open source projects including [Minesweeper](https://github.com/v-gajjar/Minesweeper) and [Phuzzle](https://github.com/NickTheDevOpsGuy/phuzzle), with work ranging from unit and component tests to SEO improvements and mobile fixes.
 
-## 🏆 Selected Hackathon Projects
+## Selected Hackathon Projects
 
 I've competed in six Code Institute team hackathons and was Scrum Master in four, running the team's Agile workflow from planning to delivery. All four of those teams placed in the top three, with two 1st places, a 2nd and a 3rd. Here are my three most recent as Scrum Master.
 
-- 🎃 **[Purranormal](https://github.com/hannahro15/CI-Halloween-Hackathon-25)**, Halloween Hackathon (October 2025), **🥈 2nd place**: a spooky-themed app that matches witches with mystical cat familiars. Scrum Master, coordinating the team's delivery. I also set up the Django project and Heroku deployment, worked on the front-end including the Halloween-styled 404 and 500 pages, and helped with last-minute bug fixes. **Stack:** Python, Django · [Live site](https://purranormal-26af1e8cdfe0.herokuapp.com/)
-- 💘 **[Love.exe](https://github.com/hannahro15/CI-Feb25-hackathon)**, February Hackathon (February 2025), **🥇 1st place**: an inclusive dating app that helps people find real-life events, dates and friendships. Scrum Master and front-end. **Stack:** Python, Django · [Live site](https://dating-events-app-512687071453.herokuapp.com/)
-- 🔊 **[Script to Sound](https://github.com/hannahro15/Nov24Hackathon)**, November Hackathon (November 2024), **🥉 3rd place**: an accessibility-themed text-to-speech app. Scrum Master, plus I built the Contact and FAQ pages. **Stack:** Python, Django · [Live site](https://script-to-sound-f697c5a0720c.herokuapp.com/)
+- **[Purranormal](https://github.com/hannahro15/CI-Halloween-Hackathon-25)**, Halloween Hackathon (October 2025), **🥈 2nd place**: a spooky-themed app that matches witches with mystical cat familiars. Scrum Master, coordinating the team's delivery. I also set up the Django project and Heroku deployment, worked on the front-end including the Halloween-styled 404 and 500 pages, and helped with last-minute bug fixes. **Stack:** Python, Django · [Live site](https://purranormal-26af1e8cdfe0.herokuapp.com/)
+- **[Love.exe](https://github.com/hannahro15/CI-Feb25-hackathon)**, February Hackathon (February 2025), **🥇 1st place**: an inclusive dating app that helps people find real-life events, dates and friendships. Scrum Master and front-end. **Stack:** Python, Django · [Live site](https://dating-events-app-512687071453.herokuapp.com/)
+- **[Script to Sound](https://github.com/hannahro15/Nov24Hackathon)**, November Hackathon (November 2024), **🥉 3rd place**: an accessibility-themed text-to-speech app. Scrum Master, plus I built the Contact and FAQ pages. **Stack:** Python, Django · [Live site](https://script-to-sound-f697c5a0720c.herokuapp.com/)
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Frontend
 
@@ -83,18 +83,18 @@ I've competed in six Code Institute team hackathons and was Scrum Master in four
 
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white) ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white) ![React Testing Library](https://img.shields.io/badge/React_Testing_Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white)
 
-## 🔨 Currently Working On
+## Currently Working On
 
-- 💼 **[Job Tools Platform](https://github.com/hannahro15/Job-tools-platform)**: still building it, see Selected Projects above.
-- 🎼 **[Music Theory App](https://github.com/hannahro15/music-theory-app)**: still building it, see Selected Projects above.
-- 🎻 **[Classical Music Themed Escape Room](https://github.com/hannahro15/classical-music-themed-escape-room)**: maintaining it as an open source project, see Open Source above.
-- 🎵 **[Musical Match Saga](https://github.com/hannahro15/Musical-Match-Saga)**: maintaining it as an open source project, see Open Source above.
-- 🖥️ **[Portfolio Site](https://github.com/hannahro15/Hannah-Portfolio-Site)**: continuously improving it with new projects and updates.
-- ☁️ **AWS SimuLearn: Cloud Practitioner** on AWS Skill Builder: hands-on labs solving simulated customer problems with AWS services.
+- **[Job Tools Platform](https://github.com/hannahro15/Job-tools-platform)**: still building it, see Selected Projects above.
+- **[Music Theory App](https://github.com/hannahro15/music-theory-app)**: still building it, see Selected Projects above.
+- **[Classical Music Themed Escape Room](https://github.com/hannahro15/classical-music-themed-escape-room)**: maintaining it as an open source project, see Open Source above.
+- **[Musical Match Saga](https://github.com/hannahro15/Musical-Match-Saga)**: maintaining it as an open source project, see Open Source above.
+- **[Portfolio Site](https://github.com/hannahro15/Hannah-Portfolio-Site)**: continuously improving it with new projects and updates.
+- **AWS SimuLearn: Cloud Practitioner** on AWS Skill Builder: hands-on labs solving simulated customer problems with AWS services.
 
-## 🎓 Education & Certifications
+## Education & Certifications
 
-- ☁️ **AWS Certified Cloud Practitioner** (September 2026)
-- 📊 **Data Consultant Academy** — Sparta Global (April 2025 – August 2025), followed by post-academy upskilling
-- 📜 **Level 5 Diploma in Web Application Development** — Code Institute (January 2024 – January 2025)
-- 📊 **Data Bootcamp** — Fast Futures, Avado (May 2023 – July 2023)
+- **AWS Certified Cloud Practitioner** (September 2026)
+- **Data Consultant Academy** — Sparta Global (April 2025 – August 2025), followed by post-academy upskilling
+- **Level 5 Diploma in Web Application Development** — Code Institute (January 2024 – January 2025)
+- **Data Bootcamp** — Fast Futures, Avado (May 2023 – July 2023)
